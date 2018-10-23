@@ -48,7 +48,7 @@ ellipse(width/2,height/2,filterFreq);
 
 var yoff=0
 for (var y = 0; y < rows; y++) {
-    if(frameCount> 450) {
+    if(frameCount> 900) {
       xoff= volume
     } else { xoff=0}
 
